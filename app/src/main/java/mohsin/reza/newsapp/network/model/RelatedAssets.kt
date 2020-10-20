@@ -7,14 +7,15 @@ import kotlinx.android.parcel.Parcelize
 
 @JsonClass(generateAdapter = true)
 @Parcelize
-data class Article(
+data class RelatedAssets(
     @Json(name = "id") val id: Int,
-    @Json(name = "categories") val categories: List<String>,
-    @Json(name = "authors") val authors: List<String>,
+    @Json(name = "categories") val categories: List<Categories>,
+    @Json(name = "authors") val authors: List<Authors>,
     @Json(name = "url") val url: String,
     @Json(name = "lastModified") val lastModified: Int,
     @Json(name = "onTime") val onTime: Int,
     @Json(name = "sponsored") val sponsored: Boolean,
-    @Json(name = "displayName") val displayName: String,
-    @Json(name = "assets") val assets: List<Assets>
+    @Json(name = "assetType") val assetType: String,
+    @Json(name = "headline") val headline: String,
+    @Json(name = "timeStamp") val timeStamp: Int
 ) : Parcelable
