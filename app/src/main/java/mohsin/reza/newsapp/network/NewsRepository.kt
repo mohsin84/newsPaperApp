@@ -11,8 +11,7 @@ class NewsRepository(private val newsService: NewsService) {
             "https://bruce-v2-mob.fairfaxmedia.com.au/1/coding_test/13ZZQX/full"
     }
 
-    //calling the retrofit service here with the help of dagger injection
     fun getAssetList(): Observable<List<Assets>>? {
-        return newsService.getNewsData(baseURL).map { it.assets }
+        return newsService.getNewsData().map { it.assets }
     }
 }

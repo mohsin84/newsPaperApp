@@ -7,7 +7,6 @@ import com.squareup.moshi.Moshi
 import dagger.Module
 import dagger.Provides
 import io.reactivex.schedulers.Schedulers
-import mohsin.reza.newsapp.utils.scheduler.AppSchedulers
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
@@ -19,10 +18,11 @@ import javax.inject.Singleton
  * Network Module
  */
 @Module
-open class NetworkModule(val application: Application, private val versionName: String? = null) {
+open class NetworkModule(val application: Application) {
 
     companion object {
         private const val PREFERENCES_NAME = "Network"
+
         // Used for Retrofit initialization only
         private const val BASE_URL =
             "https://bruce-v2-mob.fairfaxmedia.com.au/1/coding_test/13ZZQX/full"
