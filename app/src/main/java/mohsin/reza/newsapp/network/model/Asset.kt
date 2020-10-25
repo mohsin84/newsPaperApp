@@ -12,7 +12,7 @@ class Asset(
     @Json(name = "categories") val categories: List<Categories>,
     @Json(name = "authors") val authors: List<Authors>,
     @Json(name = "url") val url: String,
-    @Json(name = "lastModified") val lastModified: Int,
+    @Json(name = "lastModified") val lastModified: Long,
     @Json(name = "sponsored") val sponsored: Boolean,
     @Json(name = "headline") val headline: String,
     @Json(name = "indexHeadline") val indexHeadline: String,
@@ -23,12 +23,12 @@ class Asset(
     @Json(name = "numberOfComments") val numberOfComments: Int,
     @Json(name = "relatedAssets") val relatedAssets: List<RelatedAssets>,
     @Json(name = "relatedImages") val relatedImages: List<RelatedImages>,
-    @Json(name = "signPost") val signPost: String,
+    @Json(name = "signPost") val signPost: String?,
     @Json(name = "companies") val companies: List<String>,
-    @Json(name = "legalStatus") val legalStatus: String,
-    @Json(name = "sources") val sources: List<Sources>,
+    @Json(name = "legalStatus") val legalStatus: String?,
+    @Json(name = "sources") val sources: List<Sources>?,
     @Json(name = "assetType") val assetType: String,
-    @Json(name = "overrides") val overrides: Overrides,
-    @Json(name = "timeStamp") val timeStamp: Int
+    @Json(name = "overrides") val overrides: Overrides?,
+    @Json(name = "timeStamp") val timeStamp: Long
 
 ) : Parcelable

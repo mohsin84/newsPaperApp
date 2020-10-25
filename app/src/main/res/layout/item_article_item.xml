@@ -4,16 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="@dimen/spacing_xs">
+    android:layout_marginStart="@dimen/spacing_sm"
+    android:layout_marginEnd="@dimen/spacing_sm"
+    android:layout_marginBottom="@dimen/spacing_s"
+    android:background="@color/white">
 
     <TextView
         android:id="@+id/headline_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="@dimen/spacing_ml"
-        android:layout_marginTop="@dimen/spacing_ml"
+        style="@style/ArticleTextView"
         android:gravity="start"
         android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="the Article" />
@@ -33,23 +34,21 @@
 
     <TextView
         android:id="@+id/abstract_text_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="@dimen/spacing_ml"
-        android:layout_marginTop="@dimen/spacing_ml"
-        android:layout_marginRight="@dimen/spacing_ml"
+        style="@style/ArticleTextView"
+        android:ellipsize="end"
+        android:maxLines="@integer/abstract_max_lines"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/article_image_view"
         app:layout_constraintTop_toBottomOf="@id/headline_text_view"
         tools:text="When a man goes to a drink" />
 
     <TextView
         android:id="@+id/by_line_text_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="@dimen/spacing_ml"
-        android:layout_marginTop="@dimen/spacing_ml"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/article_image_view"
+        style="@style/ArticleTextView"
+        android:layout_marginTop="@dimen/spacing_sm"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="@+id/abstract_text_view"
+        app:layout_constraintStart_toStartOf="@+id/abstract_text_view"
         app:layout_constraintTop_toBottomOf="@+id/abstract_text_view"
         tools:text="-Jill Margo" />
 </androidx.constraintlayout.widget.ConstraintLayout>

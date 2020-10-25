@@ -12,8 +12,8 @@ data class Article(
     @Json(name = "categories") val categories: List<String>,
     @Json(name = "authors") val authors: List<String>,
     @Json(name = "url") val url: String,
-    @Json(name = "lastModified") val lastModified: Int,
-    @Json(name = "onTime") val onTime: Int,
+    @Json(name = "lastModified") val lastModified: Long,
+    @Json(name = "onTime") val onTime: Long,
     @Json(name = "sponsored") val sponsored: Boolean,
     @Json(name = "displayName") val displayName: String,
     @Json(name = "assets") val assets: List<Asset>

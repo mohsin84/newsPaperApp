@@ -4,6 +4,7 @@ import androidx.annotation.IdRes
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
+import mohsin.reza.newsapp.ui.HomePageFragment
 
 class Navigator {
     private var fragmentManager: FragmentManager? = null
@@ -20,6 +21,12 @@ class Navigator {
     fun unbind() {
         fragmentManager = null
         containerId = -1
+    }
+
+    fun openHome() {
+        switchFragment(HomePageFragment::class.java.name) {
+            HomePageFragment()
+        }
     }
 
     private inline fun <reified T : Fragment> switchFragment(

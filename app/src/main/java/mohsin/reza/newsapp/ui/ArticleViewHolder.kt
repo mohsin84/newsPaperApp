@@ -11,20 +11,24 @@ import mohsin.reza.newsapp.utils.ViewHolder
 
 class ArticleViewHolder constructor(
     parent: ViewGroup,
-    onClick: (Asset) -> Unit
+    private val onClick: (Asset) -> Unit
 ) : ViewHolder<Asset>(parent, R.layout.item_article_item) {
 
     private val articleImageView: ImageView
         get() = itemView.article_image_view
 
+    init {
+        itemView.setOnClickListener { onClick(model) }
+    }
+
     override fun onRefreshView(model: Asset) {
         itemView.headline_text_view.text = model.headline
         itemView.abstract_text_view.text = model.theAbstract
-        itemView.by_line_text_view.text = model.byLine
+        itemView.by_line_text_view.text = "- ".plus(model.byLine)
     }
 
     override fun onAttach() {
-        val imageUrl = model.relatedImages.first()
+        val imageUrl = model.relatedImages.first().url
         super.onAttach()
         GlideApp.with(articleImageView)
             .load(imageUrl)

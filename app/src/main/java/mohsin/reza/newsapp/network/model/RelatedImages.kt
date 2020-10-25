@@ -13,7 +13,7 @@ class RelatedImages(
     @Json(name = "brands") val brands: List<String>,
     @Json(name = "authors") val authors: List<String>,
     @Json(name = "url") val url: String,
-    @Json(name = "lastModified") val lastModified: Int,
+    @Json(name = "lastModified") val lastModified: Long,
     @Json(name = "sponsored") val sponsored: Boolean,
     @Json(name = "description") val description: String,
     @Json(name = "photographer") val photographer: String,
@@ -21,11 +21,11 @@ class RelatedImages(
     @Json(name = "width") val width: Int,
     @Json(name = "height") val height: Int,
     @Json(name = "assetType") val assetType: String,
-    @Json(name = "xLarge@2x") val xLargeTx: String,
-    @Json(name = "xLarge") val xLarge: String,
-    @Json(name = "large@2x") val largeTx: String,
-    @Json(name = "large") val large: String,
-    @Json(name = "thumbnail@2x") val thumbnailTx: String,
-    @Json(name = "thumbnail") val thumbnail: String,
-    @Json(name = "timeStamp") val timeStamp: Int
+    @Json(name = "xLarge2x") val xLargeTx: String?,
+    @Json(name = "xLarge") val xLarge: String?,
+    @Json(name = "large2x") val largeTx: String?,
+    @Json(name = "large") val large: String?,
+    @Json(name = "thumbnail2x") val thumbnailTx: String?,
+    @Json(name = "thumbnail") val thumbnail: String?,
+    @Json(name = "timeStamp") val timeStamp: Long
 ) : Parcelable

@@ -12,10 +12,10 @@ data class RelatedAssets(
     @Json(name = "categories") val categories: List<Categories>,
     @Json(name = "authors") val authors: List<Authors>,
     @Json(name = "url") val url: String,
-    @Json(name = "lastModified") val lastModified: Int,
-    @Json(name = "onTime") val onTime: Int,
+    @Json(name = "lastModified") val lastModified: Long,
+    @Json(name = "onTime") val onTime: Long?,
     @Json(name = "sponsored") val sponsored: Boolean,
     @Json(name = "assetType") val assetType: String,
     @Json(name = "headline") val headline: String,
-    @Json(name = "timeStamp") val timeStamp: Int
+    @Json(name = "timeStamp") val timeStamp: Long
 ) : Parcelable

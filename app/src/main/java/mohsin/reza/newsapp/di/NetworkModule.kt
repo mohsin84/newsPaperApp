@@ -28,7 +28,7 @@ open class NetworkModule(val application: Application) {
 
         // Used for Retrofit initialization only
         private const val BASE_URL =
-            "https://bruce-v2-mob.fairfaxmedia.com.au/1/coding_test/13ZZQX/full"
+            "https://bruce-v2-mob.fairfaxmedia.com.au/1/coding_test/13ZZQX/full/"
         private const val TIMEOUT = 3L
     }
 

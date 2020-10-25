@@ -7,5 +7,5 @@ import retrofit2.http.Url
 
 interface NewsService {
     @GET
-    fun getNewsData(): Observable<Article>
+    fun getNewsData(@Url url: String): Observable<Article>
 }
