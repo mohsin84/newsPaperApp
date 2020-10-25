@@ -7,7 +7,7 @@ import kotlinx.android.parcel.Parcelize
 
 @JsonClass(generateAdapter = true)
 @Parcelize
-class Assets(
+class Asset(
     @Json(name = "id") val id: Int,
     @Json(name = "categories") val categories: List<Categories>,
     @Json(name = "authors") val authors: List<Authors>,

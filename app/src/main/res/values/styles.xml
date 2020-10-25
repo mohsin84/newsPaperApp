@@ -11,4 +11,10 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
+    <style name="LoadingProgressBar">
+        <item name="android:layout_width">@dimen/progress_bar_height</item>
+        <item name="android:layout_height">@dimen/progress_bar_height</item>
+        <item name="android:theme">@style/AppTheme</item>
+    </style>
 </resources>

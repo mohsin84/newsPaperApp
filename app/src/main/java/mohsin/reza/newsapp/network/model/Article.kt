@@ -16,5 +16,5 @@ data class Article(
     @Json(name = "onTime") val onTime: Int,
     @Json(name = "sponsored") val sponsored: Boolean,
     @Json(name = "displayName") val displayName: String,
-    @Json(name = "assets") val assets: List<Assets>
+    @Json(name = "assets") val assets: List<Asset>
 ) : Parcelable

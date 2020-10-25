@@ -7,6 +7,9 @@ import com.squareup.moshi.Moshi
 import dagger.Module
 import dagger.Provides
 import io.reactivex.schedulers.Schedulers
+import mohsin.reza.newsapp.network.NewsRepository
+import mohsin.reza.newsapp.network.NewsService
+import mohsin.reza.newsapp.utils.scheduler.AppSchedulers
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
@@ -78,4 +81,17 @@ open class NetworkModule(val application: Application) {
     fun providePreferences() =
         application.getSharedPreferences(PREFERENCES_NAME, Context.MODE_PRIVATE)!!
 
+    @Singleton
+    @Provides
+    fun provideNewsService(retrofit: Retrofit): NewsService = retrofit.createApi()
+
+    @Singleton
+    @Provides
+    fun provideNewsRepository(
+        newsService: NewsService
+    ) = NewsRepository(newsService)
+
+    @Singleton
+    @Provides
+    fun providesAppSchedulers(): mohsin.reza.newsapp.utils.scheduler.Schedulers = AppSchedulers()
 }
