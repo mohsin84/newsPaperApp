@@ -13,6 +13,7 @@ import kotlinx.android.synthetic.main.fragment_home.*
 import mohsin.reza.newsapp.App
 import mohsin.reza.newsapp.R
 import mohsin.reza.newsapp.di.ResourceState
+import mohsin.reza.newsapp.utils.Browser
 import mohsin.reza.newsapp.utils.Navigator
 import mohsin.reza.newsapp.utils.ViewModelFactory
 import mohsin.reza.newsapp.utils.isInternetConnected
@@ -53,8 +54,8 @@ class HomePageFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        homePageRecyclerView.adapter = HomePageRecyclerViewAdapter { movie ->
-
+        homePageRecyclerView.adapter = HomePageRecyclerViewAdapter { article ->
+            Browser.openUrl(requireContext(), article.url)
         }
         viewModel.requestArticleList()
         viewModel.movieListLiveData.observe(viewLifecycleOwner, Observer { resource ->

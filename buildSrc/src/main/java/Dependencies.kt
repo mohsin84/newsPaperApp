@@ -11,6 +11,7 @@ object Android {
 object Versions {
     const val appCompat = "1.0.2"
     const val auth0 = "1.19.0"
+    const val browser = "1.2.0"
     const val constraintLayout = "1.1.3"
     const val coreTesting = "2.0.1"
     const val dagger = "2.24"
@@ -49,6 +50,7 @@ object Libs {
     const val auth0 = "com.auth0.android:auth0:${Versions.auth0}"
     const val appCompat = "androidx.appcompat:appcompat:${Versions.appCompat}"
     const val constraintLayout = "androidx.constraintlayout:constraintlayout:${Versions.constraintLayout}"
+    const val browser = "androidx.browser:browser:${Versions.browser}"
     const val dagger = "com.google.dagger:dagger:${Versions.dagger}"
     const val daggerCompiler = "com.google.dagger:dagger-compiler:${Versions.dagger}"
     const val glide = "com.github.bumptech.glide:glide:${Versions.glide}"

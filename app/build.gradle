@@ -46,6 +46,7 @@ android {
 
 dependencies {
     implementation Libs.appCompat
+    implementation Libs.browser
     implementation Libs.constraintLayout
     implementation Libs.dagger
     kapt Libs.daggerCompiler
@@ -76,11 +77,6 @@ dependencies {
     testImplementation TestLibs.coreTesting
     testImplementation TestLibs.junit
     testImplementation TestLibs.mockk
-
-    androidTestImplementation TestLibs.mockWebserver
-
-    // DONE : place okhttp3-idling-resource dependency here
-    androidTestImplementation 'com.jakewharton.espresso:okhttp3-idling-resource:1.0.0'
 
     androidTestImplementation TestLibs.espresso
     androidTestImplementation TestLibs.junitExt
