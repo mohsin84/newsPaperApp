@@ -11,6 +11,8 @@ class NewsRepository(private val newsService: NewsService) {
     }
 
     fun getAssetList(): Observable<List<Asset>> {
-        return newsService.getNewsData(baseURL).map { it.assets }?: Observable.just(emptyList())
+        return newsService.getNewsData(baseURL).map { it.assets ?: emptyList() } ?: Observable.just(
+            emptyList()
+        )
     }
 }

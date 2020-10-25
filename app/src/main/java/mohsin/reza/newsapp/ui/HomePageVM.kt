@@ -25,8 +25,14 @@ class HomePageVM @Inject constructor(
 
     fun requestArticleList() {
         newsRepository.getAssetList()
-            .map {
-                it
+            .map { list ->
+                // sorting by timeStamp
+                list.sortedByDescending { asset ->
+                    // finding and storing the smallest imageSize
+                    val imageUrl = asset.relatedImages?.minBy { it.width ?: Int.MAX_VALUE }
+                    asset.imageUrl = imageUrl?.url
+                    asset.timeStamp
+                }
             }
             .subscribeOn(schedulers.main())
             .doOnSubscribe {

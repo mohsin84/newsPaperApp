@@ -8,6 +8,7 @@ import mohsin.reza.newsapp.R
 import mohsin.reza.newsapp.di.GlideApp
 import mohsin.reza.newsapp.network.model.Asset
 import mohsin.reza.newsapp.utils.ViewHolder
+import timber.log.Timber
 
 class ArticleViewHolder constructor(
     parent: ViewGroup,
@@ -22,14 +23,15 @@ class ArticleViewHolder constructor(
     }
 
     override fun onRefreshView(model: Asset) {
-        itemView.headline_text_view.text = model.headline
-        itemView.abstract_text_view.text = model.theAbstract
-        itemView.by_line_text_view.text = "- ".plus(model.byLine)
+        itemView.headline_text_view.text = model.headline ?: ""
+        itemView.abstract_text_view.text = model.theAbstract ?: ""
+        itemView.by_line_text_view.text = "- ".plus(model.byLine ?: "")
     }
 
     override fun onAttach() {
-        val imageUrl = model.relatedImages.first().url
         super.onAttach()
+        val imageUrl = model.imageUrl ?: ""
+        Timber.d("imageUrl=$imageUrl")
         GlideApp.with(articleImageView)
             .load(imageUrl)
             .centerCrop()

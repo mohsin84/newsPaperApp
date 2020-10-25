@@ -55,7 +55,7 @@ class HomePageFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         homePageRecyclerView.adapter = HomePageRecyclerViewAdapter { article ->
-            Browser.openUrl(requireContext(), article.url)
+            Browser.openUrl(requireContext(), article.url ?: "")
         }
         viewModel.requestArticleList()
         viewModel.movieListLiveData.observe(viewLifecycleOwner, Observer { resource ->

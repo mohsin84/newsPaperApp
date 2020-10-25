@@ -4,9 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginStart="@dimen/spacing_sm"
-    android:layout_marginEnd="@dimen/spacing_sm"
-    android:layout_marginBottom="@dimen/spacing_s"
+    android:layout_marginStart="@dimen/spacing_s"
+    android:layout_marginEnd="@dimen/spacing_s"
+    android:layout_marginBottom="@dimen/spacing_xxs"
     android:background="@color/white">
 
     <TextView

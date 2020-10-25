@@ -7,4 +7,7 @@
     <color name="text_shadow">#4d2d323c</color>
     <color name="transparent">#00000000</color>
     <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="black_30">#4C000000</color>
+    <color name="black_50">#80000000</color>
 </resources>
