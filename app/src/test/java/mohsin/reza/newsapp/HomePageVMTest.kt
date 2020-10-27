@@ -12,8 +12,8 @@ import mohsin.reza.newsapp.utils.ConnectionUtil
 import mohsin.reza.newsapp.utils.OffLineConnectionException
 import mohsin.reza.newsapp.utils.safeSize
 import mohsin.reza.newsapp.utils.scheduler.TestSchedulers
-import okhttp3.MediaType
-import okhttp3.ResponseBody
+import okhttp3.MediaType.Companion.toMediaTypeOrNull
+import okhttp3.ResponseBody.Companion.toResponseBody
 import org.junit.Assert.assertEquals
 import org.junit.Rule
 import org.junit.Test
@@ -21,6 +21,8 @@ import retrofit2.HttpException
 import retrofit2.Response
 
 class HomePageVMTest {
+    private val mediaTypeJson = "application/json".toMediaTypeOrNull()
+
     private val newsRepositoryMock = mockk<NewsRepository>()
 
     private val connectionUtilMock = mockk<ConnectionUtil>()
@@ -51,7 +53,7 @@ class HomePageVMTest {
     private val noInternetException = OffLineConnectionException()
 
     private val error = HttpException(
-        Response.error<String>(400, ResponseBody.create(MediaType.parse(""), "content"))
+        Response.error<String>(400, "content".toResponseBody(mediaTypeJson))
     )
 
     @get:Rule
@@ -71,7 +73,7 @@ class HomePageVMTest {
             // check data size
             assertEquals(resultsValid.size, it.data.safeSize)
 
-            //check if the list is sorted base on timestamp field
+            // check if the list is sorted based on timestamp field
             assertEquals(it.data?.get(0)?.headline, "First asset")
             assertEquals(it.data?.get(2)?.headline, "Second asset")
             assertEquals(it.data?.get(4)?.headline, "Fourth asset")

@@ -23,7 +23,7 @@ class Asset(
     @Json(name = "numberOfComments") val numberOfComments: Int? = null,
     @Json(name = "relatedAssets") val relatedAssets: List<RelatedAssets>? = null,
     @Json(name = "relatedImages") val relatedImages: List<RelatedImages>? = null,
-    @Json(name = "relatedImages") var imageUrl: String? = null,
+    var imageUrl: String? = null,
     @Json(name = "signPost") val signPost: String? = null,
     @Json(name = "sources") val sources: List<Sources>? = null,
     @Json(name = "assetType") val assetType: String? = null,

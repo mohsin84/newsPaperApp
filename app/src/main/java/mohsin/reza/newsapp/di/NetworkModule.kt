@@ -7,6 +7,9 @@ import com.squareup.moshi.Moshi
 import dagger.Module
 import dagger.Provides
 import io.reactivex.schedulers.Schedulers
+import mohsin.reza.newsapp.network.MockInterceptor
+import mohsin.reza.newsapp.network.NetworkSettings
+import mohsin.reza.newsapp.network.NetworkSettingsImpl
 import mohsin.reza.newsapp.network.NewsRepository
 import mohsin.reza.newsapp.network.NewsService
 import mohsin.reza.newsapp.utils.scheduler.AppSchedulers
@@ -25,12 +28,11 @@ open class NetworkModule(val application: Application) {
 
     companion object {
         private const val PREFERENCES_NAME = "Network"
-
-        // Used for Retrofit initialization only
-        private const val BASE_URL =
-            "https://bruce-v2-mob.fairfaxmedia.com.au/1/coding_test/13ZZQX/full/"
+        private const val BASE_URL = "https://bruce-v2-mob.fairfaxmedia.com.au/"
         private const val TIMEOUT = 3L
     }
+
+    private inline fun <reified T> Retrofit.createApi(): T = create(T::class.java)
 
     @Singleton
     @Provides
@@ -48,6 +50,29 @@ open class NetworkModule(val application: Application) {
 
     @Singleton
     @Provides
+    open fun provideNetworkSettings(): NetworkSettings = NetworkSettingsImpl()
+
+    @Singleton
+    @Provides
+    fun provideMockInterceptor(networkSettings: NetworkSettings): MockInterceptor {
+        return MockInterceptor(networkSettings)
+    }
+
+    @Singleton
+    @Provides
+    fun provideOkHttpClient(
+        mockInterceptor: MockInterceptor
+    ): OkHttpClient {
+        val builder = OkHttpClient.Builder()
+        builder.connectTimeout(TIMEOUT, TimeUnit.SECONDS)
+        builder.writeTimeout(TIMEOUT, TimeUnit.SECONDS)
+        builder.readTimeout(TIMEOUT, TimeUnit.SECONDS)
+        builder.addInterceptor(mockInterceptor)
+        return builder.build()
+    }
+
+    @Singleton
+    @Provides
     fun provideRetrofit(
         httpClient: OkHttpClient,
         rxJava2CallAdapterFactory: RxJava2CallAdapterFactory,
@@ -59,22 +84,9 @@ open class NetworkModule(val application: Application) {
         .client(httpClient)
         .build()
 
-    @Singleton
-    @Provides
-    fun provideOkHttpClient(
-    ): OkHttpClient {
-        val builder = OkHttpClient.Builder()
-        builder.connectTimeout(TIMEOUT, TimeUnit.SECONDS)
-        builder.writeTimeout(TIMEOUT, TimeUnit.SECONDS)
-        builder.readTimeout(TIMEOUT, TimeUnit.SECONDS)
-        return builder.build()
-    }
-
     @Provides
     @Singleton
     fun providesResources(): Resources = application.resources
-
-    private inline fun <reified T> Retrofit.createApi(): T = create(T::class.java)
 
     @Singleton
     @Provides

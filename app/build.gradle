@@ -20,7 +20,7 @@ android {
         targetSdkVersion Android.targetSdk
         versionCode 1
         versionName "1.0"
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner "mohsin.reza.newsapp.EspressoTestRunner"
     }
     buildTypes {
         release {
@@ -61,6 +61,7 @@ dependencies {
     implementation Libs.material
     implementation Libs.moshi
     kapt Libs.moshiCodegen
+    implementation Libs.okhttp
     implementation Libs.okhttpLogging
     implementation Libs.recyclerView
     implementation Libs.retrofit
@@ -79,7 +80,9 @@ dependencies {
     testImplementation TestLibs.mockk
 
     androidTestImplementation TestLibs.espresso
+    androidTestImplementation TestLibs.espressoContrib
     androidTestImplementation TestLibs.junitExt
+    androidTestImplementation TestLibs.mockkAndroid
     androidTestImplementation TestLibs.rules
     androidTestImplementation TestLibs.runner
 }

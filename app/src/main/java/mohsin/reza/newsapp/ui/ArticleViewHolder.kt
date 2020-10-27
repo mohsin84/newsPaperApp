@@ -23,9 +23,11 @@ class ArticleViewHolder constructor(
     }
 
     override fun onRefreshView(model: Asset) {
+        val byLine = "- ".plus(model.byLine ?: "")
         itemView.headline_text_view.text = model.headline ?: ""
         itemView.abstract_text_view.text = model.theAbstract ?: ""
-        itemView.by_line_text_view.text = "- ".plus(model.byLine ?: "")
+        itemView.by_line_text_view.text = byLine
+        articleImageView.contentDescription = byLine
     }
 
     override fun onAttach() {

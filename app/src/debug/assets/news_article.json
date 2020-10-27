@@ -1,0 +1,3454 @@
+{
+  "id": 67184313,
+  "categories": [],
+  "authors": [],
+  "url": "/content/dam/lists/1/3/z/z/q/x/list.html",
+  "lastModified": 1603660070642,
+  "onTime": 1425955024417,
+  "sponsored": false,
+  "displayName": "AFR iPad Editor's Choice",
+  "assets": [
+    {
+      "id": 1520343243,
+      "categories": [
+        {
+          "name": "Specialist Investments",
+          "sectionPath": "/personal-finance/specialist-investments",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Adele Ferguson",
+          "title": "Investigative journalist and columnist",
+          "email": "adele.ferguson@theage.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030199977,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/r/e/1/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553472686389.png",
+              "lastModified": 1553472686389,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553472686389
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/personal-finance/specialist-investments/the-uncomfortable-truths-about-australia-s-cosy-directors-club-20201025-p568cr",
+      "lastModified": 1603659725444,
+      "sponsored": false,
+      "headline": "The uncomfortable truths about Australia's cosy directors club",
+      "indexHeadline": "The uncomfortable truths about Australia's cosy directors club",
+      "tabletHeadline": "",
+      "theAbstract": "Ownership Matters has done the numbers, using 15 years of company director and executive data, and the information is an eye-opener about how the club works.",
+      "byLine": "Adele Ferguson",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520214615,
+          "categories": [
+            {
+              "name": "Business",
+              "sectionPath": "/business",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/business/letting-the-market-rip-on-proxy-advice-is-best-for-shareholders-20191204-p53h3r",
+          "lastModified": 1578189290174,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "The director's club is febrile, shameless",
+          "timeStamp": 1575550800000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030279569,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/g/s/x/image.related.afrArticleLead.1536x1010.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1590494316309,
+          "sponsored": false,
+          "description": "Ownership Matters co-founder Dean Paatsch says Australia should adopt an annual re-election for directors, similar to the UK and the US. ",
+          "photographer": "Paul Jeffers",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1590494316309
+        },
+        {
+          "id": 1030279569,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/g/s/x/image.related.articleLeadwide.1500x844.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1590494316309,
+          "sponsored": false,
+          "description": "Ownership Matters co-founder Dean Paatsch says Australia should adopt an annual re-election for directors, similar to the UK and the US. ",
+          "photographer": "Paul Jeffers",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1590494316309
+        },
+        {
+          "id": 1030894943,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/m/n/image.related.articleLeadNarrow.706x0.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603588719577,
+          "sponsored": false,
+          "description": "Robert Millner gets the Ownership Matters crown for years of service on boards. ",
+          "photographer": "Jessica Hromas",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1603588719466
+        },
+        {
+          "id": 1028292757,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/0/7/v/r/p/image.related.articleLeadNarrow.706x0.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1513761791783,
+          "sponsored": false,
+          "description": "Donald McGauchie has held many boards over the past 15 years. ",
+          "photographer": "Jesse Marlow",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1513761791783
+        },
+        {
+          "id": 1030875848,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/8/w/8/image.related.articleLeadwide.1500x844.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602056059529,
+          "sponsored": false,
+          "description": "James Packer proposes a shake-up of Crown in the wake of the NSW casino inquiry's hearings.",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1602056059529
+        },
+        {
+          "id": 1030875848,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/8/w/8/image.related.afrArticleInline.620x0.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602056059529,
+          "sponsored": false,
+          "description": "James Packer proposes a shake-up of Crown in the wake of the NSW casino inquiry's hearings.",
+          "photographer": " ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1602056059529
+        },
+        {
+          "id": 1016543825,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/t/8/2/8/h/image.related.wideLandscape.1500x844.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1534068843280,
+          "sponsored": false,
+          "description": "   ",
+          "photographer": "David Rowe",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1534068843280
+        },
+        {
+          "id": 1016543825,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/t/8/2/8/h/image.related.thumbnail.375x250.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1534068843280,
+          "sponsored": false,
+          "description": "   ",
+          "photographer": "David Rowe",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1534068843280
+        },
+        {
+          "id": 1016543825,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/t/8/2/8/h/image.related.afrIndexLead.1536x1010.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1534068843280,
+          "sponsored": false,
+          "description": "   ",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1534068843280
+        },
+        {
+          "id": 1016543825,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/t/8/2/8/h/image.related.landscape.1174x783.p568cr.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1534068843280,
+          "sponsored": false,
+          "description": "   ",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1534068843280
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [
+        {
+          "id": 997050426,
+          "companyCode": "ASX",
+          "companyName": "ASX LIMITED",
+          "abbreviatedName": "ASX Ltd",
+          "exchange": "ASX",
+          "companyNumber": "8624691"
+        }
+      ],
+      "legalStatus": "Approved",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "The uncomfortable truths about Australia's cosy directors club",
+        "overrideAbstract": "Ownership Matters has done the numbers, using 15 years of company director and executive data, and the information is an eye-opener about how the club works."
+      },
+      "timeStamp": 1603630800000
+    },
+    {
+      "id": 1520343054,
+      "categories": [
+        {
+          "name": "Equity Markets",
+          "sectionPath": "/markets/equity-markets",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jonathan Shapiro",
+          "title": "Senior Reporter",
+          "email": "jonathan.shapiro@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192045,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/p/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046422192.png",
+              "lastModified": 1553046422192,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553046422192
+            }
+          ]
+        },
+        {
+          "name": "Vesna Poljak",
+          "title": "Markets Editor",
+          "email": "vpoljak@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030202078,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/t/0/e/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562692086.png",
+              "lastModified": 1553562692086,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553562692086
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/markets/equity-markets/pandemic-favours-the-big-says-wall-street-legend-bill-ackman-20201024-p5687i",
+      "lastModified": 1603630800000,
+      "onTime": 1603630800000,
+      "sponsored": false,
+      "headline": "Pandemic favours the big, says Wall Street legend Bill Ackman",
+      "indexHeadline": "Pandemic favours the big, says Wall Street legend Bill Ackman",
+      "tabletHeadline": "",
+      "theAbstract": "Bill Ackman, the investor who's on a roll, says the large caps of the S&P and Dow are now in a better position. As for the election, it's not who wins that matters for markets, but how victory is decided.",
+      "byLine": "Jonathan Shapiro and Vesna Poljak",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520340632,
+          "categories": [
+            {
+              "name": "Economy",
+              "sectionPath": "/news/economy",
+              "orderNum": 1
+            },
+            {
+              "name": "Columns",
+              "sectionPath": "/opinion/columns",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Rana Foroohar",
+              "title": "Columnist",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030362156,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/8/j/0/image.imgtype.afrWoodcutAuthorImage.140x140.png/1563161259557.png",
+                  "lastModified": 1563161259557,
+                  "sponsored": false,
+                  "description": "Rana Foroohar",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1563161259557
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/opinion/columns/biden-needs-an-economic-team-that-s-less-focused-on-wall-st-20201018-p566c8",
+          "lastModified": 1603072159158,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Biden needs an economic team that's less focused on Wall St",
+          "timeStamp": 1603060553000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1029909057,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/6/i/w/x/image.related.articleLeadNarrow.706x0.p5687i.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1539232150303,
+          "sponsored": false,
+          "description": "Bill Ackman will present at Sohn 2020.",
+          "photographer": "Michael Nagle",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1539232150303
+        },
+        {
+          "id": 995777624,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/g/u/y/x/k/image.related.wideLandscape.1500x844.p5687i.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1430861291625,
+          "sponsored": false,
+          "description": "Bill Ackman says the pandemic has shifted the power dynamic towards big companies. ",
+          "photographer": "Reuters",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1430861291625
+        },
+        {
+          "id": 995777624,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/g/u/y/x/k/image.related.thumbnail.375x250.p5687i.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1430861291625,
+          "sponsored": false,
+          "description": "Bill Ackman says the pandemic has shifted the power dynamic towards big companies. ",
+          "photographer": "Reuters",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1430861291625
+        },
+        {
+          "id": 995777624,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/g/u/y/x/k/image.related.afrIndexLead.1536x1010.p5687i.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1430861291625,
+          "sponsored": false,
+          "description": "Bill Ackman says the pandemic has shifted the power dynamic towards big companies. ",
+          "photographer": "Reuters",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1430861291625
+        },
+        {
+          "id": 995777624,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/g/u/y/x/k/image.related.landscape.1174x783.p5687i.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1430861291625,
+          "sponsored": false,
+          "description": "Bill Ackman says the pandemic has shifted the power dynamic towards big companies. ",
+          "photographer": "Reuters",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1430861291625
+        }
+      ],
+      "companies": [
+        {
+          "id": 1030363857,
+          "companyCode": "HM1",
+          "companyName": "Hearts and Minds Investments Limited",
+          "abbreviatedName": "Hearts and Minds Investments",
+          "exchange": "",
+          "companyNumber": ""
+        }
+      ],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Pandemic favours the big, says Wall Street legend Bill Ackman",
+        "overrideAbstract": "Bill Ackman, the investor who's on a roll, says the large caps of the S&P and Dow are now in a better position. As for the election, it's not who wins that matters for markets, but how victory is decided."
+      },
+      "timeStamp": 1603630800000
+    },
+    {
+      "id": 1520343266,
+      "categories": [
+        {
+          "name": "News",
+          "sectionPath": "/news",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Myriam Robin",
+          "title": "Columnist",
+          "email": "myriam.robin@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192057,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/a/1/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046929526.png",
+              "lastModified": 1553046929526,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553046929526
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/want-a-free-watch-get-elected-20201025-p568de",
+      "lastModified": 1603630800000,
+      "onTime": 1603630800000,
+      "sponsored": false,
+      "headline": "Want a free watch? Get elected",
+      "indexHeadline": "Want a free watch? Get elected",
+      "tabletHeadline": "",
+      "theAbstract": "Communications Minister Paul Fletcher – who last week ordered an investigation into Australia Post – is familiar with the concept of complimentary time-pieces.",
+      "byLine": "Myriam Robin",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1005603001,
+          "categories": [
+            {
+              "name": "Politics",
+              "sectionPath": "/news/politics",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Phillip Coorey",
+              "title": "Political Editor",
+              "email": "pcoorey@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202050,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/s/z/m/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562093372.png",
+                  "lastModified": 1553562093372,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553562093372
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/politics/beware-chinese-billionaires-bearing-gifts-20160209-gmpk8p",
+          "lastModified": 1455057547748,
+          "onTime": 1455021900000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Beware Chinese billionaires bearing gifts",
+          "timeStamp": 1455050547152
+        },
+        {
+          "id": 1520341713,
+          "categories": [
+            {
+              "name": "Rear Window",
+              "sectionPath": "/brand/rear-window",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/brand/rear-window/who-s-in-bed-with-packer-s-pecker-20201021-p56769",
+          "lastModified": 1603285200000,
+          "onTime": 1603285200000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Who's in bed with Packer's Pecker",
+          "timeStamp": 1603285200000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.wideLandscape.1500x844.p568de.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.thumbnail.375x250.p568de.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.afrArticleLead.1536x1010.p568de.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.articleLeadwide.1500x844.p568de.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.afrIndexLead.1536x1010.p568de.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.landscape.1174x783.p568de.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        }
+      ],
+      "companies": [],
+      "legalStatus": "Approved",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Want a free watch? Get elected",
+        "overrideAbstract": "Communications Minister Paul Fletcher – who last week ordered an investigation into Australia Post – is familiar with the concept of complimentary time-pieces."
+      },
+      "timeStamp": 1603630800000
+    },
+    {
+      "id": 1520343184,
+      "categories": [
+        {
+          "name": "Residential",
+          "sectionPath": "/real-estate/residential",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Nick Lenaghan",
+          "title": "Property Editor",
+          "email": "nlenaghan@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": []
+        }
+      ],
+      "url": "http://www.afr.com/real-estate/residential/strong-auction-clearances-point-to-rising-prices-in-sydney-20201024-p568b4",
+      "lastModified": 1603608690870,
+      "sponsored": false,
+      "headline": "Strong auction clearances point to rising prices in Sydney",
+      "indexHeadline": "Strong auction clearances point to rising prices in Sydney",
+      "tabletHeadline": "",
+      "theAbstract": "Sydney records an 80.4 per cent clearance rate on preliminary figures and the Melbourne market has also stepped up.",
+      "byLine": "Nick Lenaghan",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520342459,
+          "categories": [
+            {
+              "name": "Personal Finance",
+              "sectionPath": "/personal-finance",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Christopher Joye",
+              "title": "Columnist",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030318710,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/f/b/0/6/image.imgtype.afrWoodcutAuthorImage.140x140.png/1560320067178.png",
+                  "lastModified": 1560320067178,
+                  "sponsored": false,
+                  "description": " ",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1560320067178
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/personal-finance/house-prices-rise-for-first-time-in-october-20201022-p567qz",
+          "lastModified": 1603424721425,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "House prices rise for the first time since May",
+          "timeStamp": 1603412960000
+        },
+        {
+          "id": 1520339887,
+          "categories": [
+            {
+              "name": "Economy",
+              "sectionPath": "/news/economy",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Matthew Cranston",
+              "title": "Economics correspondent",
+              "email": "mcranston@afr.com",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030309560,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/f/3/y/0/image.imgtype.afrWoodcutAuthorImage.140x140.png/1559720619379.png",
+                  "lastModified": 1559720619379,
+                  "sponsored": false,
+                  "description": " ",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1559720619379
+                },
+                {
+                  "id": 1026219836,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/y/z/g/a/k/image.imgtype.afrWoodcutAuthorImage.140x140.png/1508658705073.png",
+                  "lastModified": 1508658705073,
+                  "sponsored": false,
+                  "description": "Matt Cranston AFR Woodcut",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1508658705073
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/economy/rba-green-lights-property-risk-taking-20201016-p565rj",
+          "lastModified": 1602909693668,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "RBA 'green-lights' risk-taking in property investment",
+          "timeStamp": 1602834040000
+        },
+        {
+          "id": 1520341102,
+          "categories": [
+            {
+              "name": "Residential",
+              "sectionPath": "/real-estate/residential",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/real-estate/residential/buyers-return-to-the-housing-market-20201019-p566pa",
+          "lastModified": 1603180251584,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Buyers return to the housing market",
+          "timeStamp": 1603172208000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030894941,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/m/l/image.related.afrArticleLead.1536x1010.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603588306705,
+          "sponsored": false,
+          "description": "This three-bedroom Cheltenham home was among the first to be sold since on-site auctions returned to Melbourne.",
+          "photographer": " ",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1603588306705
+        },
+        {
+          "id": 1030894941,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/m/l/image.related.articleLeadwide.1500x844.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603588306705,
+          "sponsored": false,
+          "description": "This three-bedroom Cheltenham home was among the first to be sold since on-site auctions returned to Melbourne.",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603588306705
+        },
+        {
+          "id": 1030895160,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/s/o/image.related.articleLeadwide.1500x844.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603604911354,
+          "sponsored": false,
+          "description": "Prospective buyers at the launch of the Bond project, at Club Bondi Junction RSL.",
+          "photographer": "  ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603604911354
+        },
+        {
+          "id": 1030895160,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/s/o/image.related.afrArticleInline.620x0.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603604911354,
+          "sponsored": false,
+          "description": "Prospective buyers at the launch of the Bond project, at Club Bondi Junction RSL.",
+          "photographer": "  ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1603604911354
+        },
+        {
+          "id": 1030366965,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/c/8/l/image.related.wideLandscape.1500x844.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1563429383028,
+          "sponsored": false,
+          "description": "Demand has re-emerged in Sydney's new apartment market as well. ",
+          "photographer": "Kate Geraghty",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1563429383028
+        },
+        {
+          "id": 1030366965,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/c/8/l/image.related.thumbnail.375x250.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1563429383028,
+          "sponsored": false,
+          "description": "Demand has re-emerged in Sydney's new apartment market as well. ",
+          "photographer": "Kate Geraghty",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1563429383028
+        },
+        {
+          "id": 1030366965,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/c/8/l/image.related.afrIndexLead.1536x1010.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1563429383028,
+          "sponsored": false,
+          "description": "Demand has re-emerged in Sydney's new apartment market as well. ",
+          "photographer": "Kate Geraghty",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1563429383028
+        },
+        {
+          "id": 1030366965,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/c/8/l/image.related.landscape.1174x783.p568b4.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1563429383028,
+          "sponsored": false,
+          "description": "Demand has re-emerged in Sydney's new apartment market as well. ",
+          "photographer": "Kate Geraghty",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1563429383028
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Strong auction clearances point to rising prices in Sydney",
+        "overrideAbstract": "Sydney records an 80.4 per cent clearance rate on preliminary figures and the Melbourne market has also stepped up."
+      },
+      "timeStamp": 1603597670000
+    },
+    {
+      "id": 1520343275,
+      "categories": [
+        {
+          "name": "National",
+          "sectionPath": "/news/politics/national",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jennifer Hewett",
+          "title": "Columnist",
+          "email": "jennifer.hewett@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192031,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/b/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553045801363.png",
+              "lastModified": 1553045801363,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553045801363
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/politics/national/the-high-price-of-business-when-it-s-political-20201025-p568dn",
+      "lastModified": 1603631700000,
+      "onTime": 1603631700000,
+      "sponsored": false,
+      "headline": "The high price of business when it's political",
+      "indexHeadline": "The high price of business when it's political",
+      "tabletHeadline": "",
+      "theAbstract": "The community may be outraged by executive gifts of luxury watches but eyes glaze over when it comes to executive bonuses worth millions of dollars. And James Shipton's plans to return to the corporate regulator won't be realised.",
+      "byLine": "Jennifer Hewett",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520343159,
+          "categories": [
+            {
+              "name": "Banking & Finance",
+              "sectionPath": "/business/banking-and-finance",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Karen Maley",
+              "title": "Columnist",
+              "email": "karen.maley@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192046,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/q/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046499809.png",
+                  "lastModified": 1553046499809,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553046499809
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/business/banking-and-finance/why-frydenberg-needs-to-take-the-axe-to-asic-20201024-p568af",
+          "lastModified": 1603630800000,
+          "onTime": 1603630800000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Why Frydenberg needs to take the axe to ASIC",
+          "timeStamp": 1603630800000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030788760,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/p/d/p/4/image.related.afrArticleLead.1536x1010.p568dn.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1594790219541,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton has stepped aside pending a review.",
+          "photographer": " ",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1594790219541
+        },
+        {
+          "id": 1030788760,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/p/d/p/4/image.related.articleLeadwide.1500x844.p568dn.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1594790219541,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton has stepped aside pending a review.",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1594790219541
+        },
+        {
+          "id": 1030506802,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/j/c/4/y/image.related.wideLandscape.1500x844.p568dn.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1572768762104,
+          "sponsored": false,
+          "description": "Former Australia Post chairman John Stanhope provided millions of dollars in bonuses to Ahmed Fahour but it's $20,000 worth of Cartier watches getting the attention.",
+          "photographer": "Jessica Shapiro ",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1572768762019
+        },
+        {
+          "id": 1030506802,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/j/c/4/y/image.related.thumbnail.375x250.p568dn.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1572768762104,
+          "sponsored": false,
+          "description": "Former Australia Post chairman John Stanhope provided millions of dollars in bonuses to Ahmed Fahour but it's $20,000 worth of Cartier watches getting the attention.",
+          "photographer": "Jessica Shapiro ",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1572768762019
+        },
+        {
+          "id": 1030506802,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/j/c/4/y/image.related.afrIndexLead.1536x1010.p568dn.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1572768762104,
+          "sponsored": false,
+          "description": "Former Australia Post chairman John Stanhope provided millions of dollars in bonuses to Ahmed Fahour but it's $20,000 worth of Cartier watches getting the attention.",
+          "photographer": "Jessica Shapiro ",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1572768762019
+        },
+        {
+          "id": 1030506802,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/j/c/4/y/image.related.landscape.1174x783.p568dn.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1572768762104,
+          "sponsored": false,
+          "description": "Former Australia Post chairman John Stanhope provided millions of dollars in bonuses to Ahmed Fahour but it's $20,000 worth of Cartier watches getting the attention.",
+          "photographer": "Jessica Shapiro ",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1572768762019
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [
+        {
+          "id": 996979079,
+          "companyCode": "WBC",
+          "companyName": "WESTPAC BANKING CORPORATION",
+          "abbreviatedName": "Westpac Banking Corp",
+          "exchange": "ASX",
+          "companyNumber": "7457141"
+        }
+      ],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "The high price of business when it's political",
+        "overrideAbstract": "The community may be outraged by executive gifts of luxury watches but eyes glaze over when it comes to executive bonuses worth millions of dollars. And James Shipton's plans to return to the corporate regulator won't be realised."
+      },
+      "timeStamp": 1603631700000
+    },
+    {
+      "id": 1520343192,
+      "categories": [
+        {
+          "name": "North America",
+          "sectionPath": "/news/world/north-america",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Joe Aston",
+          "title": "Columnist",
+          "email": "joe.aston@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192038,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/i/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046073852.png",
+              "lastModified": 1553046073852,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553046073852
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/world/north-america/fire-star-power-deployed-to-clean-up-biden-s-oil-spill-20201024-p568bc",
+      "lastModified": 1603598281105,
+      "sponsored": false,
+      "headline": "Fire, star power deployed to clean up Biden's oil spill",
+      "indexHeadline": "Fire, star power deployed to clean up Biden's oil spill",
+      "tabletHeadline": "",
+      "theAbstract": "Barack Obama is providing Joe Biden with welcome ballast just as President Trump hits more disciplined messaging.",
+      "byLine": "Joe Aston",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520328272,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Jacob Greber",
+              "title": "United States Correspondent",
+              "email": "jgreber@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030191963,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/7/f/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553044631889.png",
+                  "lastModified": 1553044631889,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553044631889
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/world/north-america/us-election-the-battle-for-pennsylvania-is-all-about-gas-20200917-p55wsw",
+          "lastModified": 1600706626798,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "How Boilermakers Local 154 could win the election for Trump",
+          "timeStamp": 1600397637000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030894950,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/m/u/image.related.afrArticleLead.1536x1010.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603589627784,
+          "sponsored": false,
+          "description": "Obama in Florida. \"The idea that somehow this White House has done anything but completely screw this thing up is nonsense.\"",
+          "photographer": "AP",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1603589627784
+        },
+        {
+          "id": 1030894950,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/m/u/image.related.articleLeadwide.1500x844.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603589627784,
+          "sponsored": false,
+          "description": "Obama in Florida. \"The idea that somehow this White House has done anything but completely screw this thing up is nonsense.\"",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603589627784
+        },
+        {
+          "id": 1030894968,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/c/image.related.articleLeadwide.1500x844.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603590959966,
+          "sponsored": false,
+          "description": "Donald Trump at a campaign rally in Wisconsin on Saturday (Sunday AEDT).",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603590959966
+        },
+        {
+          "id": 1030894968,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/c/image.related.afrArticleInline.620x0.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603590959966,
+          "sponsored": false,
+          "description": "Donald Trump at a campaign rally in Wisconsin on Saturday (Sunday AEDT).",
+          "photographer": "AP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1603590959966
+        },
+        {
+          "id": 1030894767,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/h/r/image.related.wideLandscape.1500x844.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603572215621,
+          "sponsored": false,
+          "description": "Former President Barack Obama campaigns for Democratic presidential candidate former vice-president Joe Biden at Florida International University.",
+          "photographer": "Lynne Sladky",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603572215621
+        },
+        {
+          "id": 1030894767,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/h/r/image.related.thumbnail.375x250.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603572215621,
+          "sponsored": false,
+          "description": "Former President Barack Obama campaigns for Democratic presidential candidate former vice-president Joe Biden at Florida International University.",
+          "photographer": "Lynne Sladky",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1603572215621
+        },
+        {
+          "id": 1030894767,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/h/r/image.related.afrIndexLead.1536x1010.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603572215621,
+          "sponsored": false,
+          "description": "Former President Barack Obama campaigns for Democratic presidential candidate former vice-president Joe Biden at Florida International University.",
+          "photographer": "Lynne Sladky",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603572215621
+        },
+        {
+          "id": 1030894767,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/h/r/image.related.landscape.1174x783.p568bc.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603572215621,
+          "sponsored": false,
+          "description": "Former President Barack Obama campaigns for Democratic presidential candidate former vice-president Joe Biden at Florida International University.",
+          "photographer": "Lynne Sladky",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603572215621
+        }
+      ],
+      "signPost": "ANALYSIS",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Fire, star power deployed to clean up Biden's oil spill",
+        "overrideAbstract": "Barack Obama is providing Joe Biden with welcome ballast just as President Trump hits more disciplined messaging."
+      },
+      "timeStamp": 1603591158000
+    },
+    {
+      "id": 1520342858,
+      "categories": [
+        {
+          "name": "Chanticleer",
+          "sectionPath": "/brand/chanticleer",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Chanticleer",
+          "title": "Columnist",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030117386,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/z/n/u/image.imgtype.afrWoodcutAuthorImage.140x140.png/1549519435387.jpg",
+              "lastModified": 1549519435387,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1549519435387
+            },
+            {
+              "id": 67385547,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/4/4/b/0/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1426357827234.png",
+              "lastModified": 1426357827234,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1426357827234
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/brand/chanticleer/asic-chair-s-sense-of-entitlement-20201023-p56822",
+      "lastModified": 1603663438275,
+      "sponsored": false,
+      "headline": "ASIC chair's sense of entitlement",
+      "indexHeadline": "ASIC chair's sense of entitlement",
+      "tabletHeadline": "",
+      "theAbstract": "After three years running the securities regulator, James Shipton's career in the public service looks headed for the rocks. Weak risk controls and a failure to understand the gravity of the problem will go against him.",
+      "byLine": "Tony Boyd",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520326050,
+          "categories": [
+            {
+              "name": "Banking & Finance",
+              "sectionPath": "/business/banking-and-finance",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Karen Maley",
+              "title": "Columnist",
+              "email": "karen.maley@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192046,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/q/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046499809.png",
+                  "lastModified": 1553046499809,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553046499809
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/business/banking-and-finance/why-asic-needs-a-fresh-shake-up-20200912-p55v36",
+          "lastModified": 1600005600000,
+          "onTime": 1600005600000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Why ASIC needs a fresh shake-up",
+          "timeStamp": 1600005600000
+        },
+        {
+          "id": 1520342844,
+          "categories": [
+            {
+              "name": "National",
+              "sectionPath": "/news/politics/national",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Phillip Coorey",
+              "title": "Political Editor",
+              "email": "pcoorey@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202050,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/s/z/m/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562093372.png",
+                  "lastModified": 1553562093372,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553562093372
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/politics/national/asic-s-blunders-who-ll-bury-the-undertaker-20201023-p5681o",
+          "lastModified": 1603435824914,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "ASIC's blunders: Who'll bury the undertaker?",
+          "timeStamp": 1603432463000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030280524,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/h/j/g/image.related.wideLandscape.1500x844.p56822.13zzqx.png/1603663438275.jpg",
+          "lastModified": 1566553904383,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton pushed the boundaries of taxpayer support of his personal affairs.",
+          "photographer": "David Rowe",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1566553904383
+        },
+        {
+          "id": 1030280524,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/h/j/g/image.related.thumbnail.375x250.p56822.13zzqx.png/1603663438275.jpg",
+          "lastModified": 1566553904383,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton pushed the boundaries of taxpayer support of his personal affairs.",
+          "photographer": "David Rowe",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1566553904383
+        },
+        {
+          "id": 1030280524,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/h/j/g/image.related.afrArticleLead.1536x1010.p56822.13zzqx.png/1603663438275.jpg",
+          "lastModified": 1566553904383,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton pushed the boundaries of taxpayer support of his personal affairs.",
+          "photographer": "David Rowe",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1566553904383
+        },
+        {
+          "id": 1030280524,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/h/j/g/image.related.articleLeadwide.1500x844.p56822.13zzqx.png/1603663438275.jpg",
+          "lastModified": 1566553904383,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton pushed the boundaries of taxpayer support of his personal affairs.",
+          "photographer": "David Rowe",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1566553904383
+        },
+        {
+          "id": 1030280524,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/h/j/g/image.related.afrIndexLead.1536x1010.p56822.13zzqx.png/1603663438275.jpg",
+          "lastModified": 1566553904383,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton pushed the boundaries of taxpayer support of his personal affairs.",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1566553904383
+        },
+        {
+          "id": 1030280524,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/e/h/j/g/image.related.landscape.1174x783.p56822.13zzqx.png/1603663438275.jpg",
+          "lastModified": 1566553904383,
+          "sponsored": false,
+          "description": "ASIC chairman James Shipton pushed the boundaries of taxpayer support of his personal affairs.",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1566553904383
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "ASIC chair's sense of entitlement",
+        "overrideAbstract": "After three years running the securities regulator, James Shipton's career in the public service looks headed for the rocks. Weak risk controls and a failure to understand the gravity of the problem will go against him."
+      },
+      "timeStamp": 1603458000000
+    },
+    {
+      "id": 1520341916,
+      "categories": [
+        {
+          "name": "Equity Markets",
+          "sectionPath": "/markets/equity-markets",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Robert Guy",
+          "title": "Senior Writer",
+          "email": "robertguy@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1029807356,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/4/c/f/w/image.imgtype.afrWoodcutAuthorImage.140x140.png/1534927350350.jpg",
+              "lastModified": 1534927350350,
+              "sponsored": false,
+              "description": "Robert Guy",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1534927350350
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/markets/equity-markets/cvc-cleans-up-from-ipo-boom-20201021-p567bw",
+      "lastModified": 1603630800000,
+      "onTime": 1603630800000,
+      "sponsored": false,
+      "headline": "CVC cleans up from IPO boom",
+      "indexHeadline": "CVC cleans up from IPO boom",
+      "tabletHeadline": "",
+      "theAbstract": "CVC Emerging Companies Fund has more than doubled since its inception in May 2019 by investing in fast-growing pre-IPO companies.",
+      "byLine": "Robert Guy",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520340349,
+          "categories": [
+            {
+              "name": "Equity Markets",
+              "sectionPath": "/markets/equity-markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Vesna Poljak",
+              "title": "Markets Editor",
+              "email": "vpoljak@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202078,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/t/0/e/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562692086.png",
+                  "lastModified": 1553562692086,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553562692086
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/markets/equity-markets/vp-capital-s-journey-from-two-minute-noodles-to-three-baggers-20201017-p5664d",
+          "lastModified": 1603026060000,
+          "onTime": 1603026060000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "VP Capital's journey from two-minute noodles to three-baggers",
+          "timeStamp": 1603026060000
+        },
+        {
+          "id": 1520332186,
+          "categories": [
+            {
+              "name": "Equity Markets",
+              "sectionPath": "/markets/equity-markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/markets/equity-markets/the-stockpicker-returning-52-6pc-20200927-p55ztm",
+          "lastModified": 1601817029278,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "The stockpicker returning 52.6pc",
+          "timeStamp": 1601816460000
+        },
+        {
+          "id": 1520330765,
+          "categories": [
+            {
+              "name": "Equity Markets",
+              "sectionPath": "/markets/equity-markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Vesna Poljak",
+              "title": "Markets Editor",
+              "email": "vpoljak@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202078,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/t/0/e/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562692086.png",
+                  "lastModified": 1553562692086,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553562692086
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/markets/equity-markets/small-caps-veteran-has-an-eye-for-the-prize-20200924-p55yq5",
+          "lastModified": 1601215260000,
+          "onTime": 1601215260000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Small caps veteran has an eye for the prize",
+          "timeStamp": 1601215260000
+        },
+        {
+          "id": 1520326506,
+          "categories": [
+            {
+              "name": "Equity Markets",
+              "sectionPath": "/markets/equity-markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/markets/equity-markets/age-no-barrier-to-thumping-the-market-for-ryan-sohn-20200914-p55vfu",
+          "lastModified": 1600644512656,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Age no barrier to thumping the market for Ryan Sohn",
+          "timeStamp": 1600610400000
+        },
+        {
+          "id": 1520336387,
+          "categories": [
+            {
+              "name": "Equity Markets",
+              "sectionPath": "/markets/equity-markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Hans van Leeuwen",
+              "title": "Europe correspondent",
+              "email": "hans.vanleeuwen@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030191945,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/6/x/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553044534165.png",
+                  "lastModified": 1553044534165,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553044534165
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/markets/equity-markets/pandemic-busting-jpmorgan-duo-like-to-keep-their-options-open-20201007-p5632b",
+          "lastModified": 1602421260000,
+          "onTime": 1602421260000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Pandemic-busting JPMorgan duo like to keep their options open",
+          "timeStamp": 1602421260000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030881963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/d/m/3/image.related.wideLandscape.1500x844.p567bw.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602567110532,
+          "sponsored": false,
+          "description": "CVC Emerging Companies Fund fund managers Jonathan Pearce (left)  and Christian Jensen. ",
+          "photographer": "AFR/Louie Douvis",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1602567110532
+        },
+        {
+          "id": 1030881963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/d/m/3/image.related.thumbnail.375x250.p567bw.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602567110532,
+          "sponsored": false,
+          "description": "CVC Emerging Companies Fund fund managers Jonathan Pearce (left)  and Christian Jensen. ",
+          "photographer": "AFR/Louie Douvis",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1602567110532
+        },
+        {
+          "id": 1030881963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/d/m/3/image.related.afrArticleLead.1536x1010.p567bw.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602567110532,
+          "sponsored": false,
+          "description": "CVC Emerging Companies Fund fund managers Jonathan Pearce (left)  and Christian Jensen. ",
+          "photographer": "AFR/Louie Douvis",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1602567110532
+        },
+        {
+          "id": 1030881963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/d/m/3/image.related.articleLeadwide.1500x844.p567bw.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602567110532,
+          "sponsored": false,
+          "description": "CVC Emerging Companies Fund fund managers Jonathan Pearce (left)  and Christian Jensen. ",
+          "photographer": "AFR/Louie Douvis",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1602567110532
+        },
+        {
+          "id": 1030881963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/d/m/3/image.related.afrIndexLead.1536x1010.p567bw.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602567110532,
+          "sponsored": false,
+          "description": "CVC Emerging Companies Fund fund managers Jonathan Pearce (left)  and Christian Jensen. ",
+          "photographer": "AFR/Louie Douvis",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1602567110532
+        },
+        {
+          "id": 1030881963,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/d/m/3/image.related.landscape.1174x783.p567bw.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1602567110532,
+          "sponsored": false,
+          "description": "CVC Emerging Companies Fund fund managers Jonathan Pearce (left)  and Christian Jensen. ",
+          "photographer": "AFR/Louie Douvis",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1602567110532
+        }
+      ],
+      "companies": [
+        {
+          "id": 997050426,
+          "companyCode": "ASX",
+          "companyName": "ASX LIMITED",
+          "abbreviatedName": "ASX Ltd",
+          "exchange": "ASX",
+          "companyNumber": "8624691"
+        }
+      ],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "CVC cleans up from IPO boom",
+        "overrideAbstract": "CVC Emerging Companies Fund has more than doubled since its inception in May 2019 by investing in fast-growing pre-IPO companies."
+      },
+      "timeStamp": 1603630800000
+    },
+    {
+      "id": 1520343185,
+      "categories": [
+        {
+          "name": "Street Talk",
+          "sectionPath": "/street-talk",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sarah Thompson",
+          "title": "Street Talk Editor",
+          "email": "sarah.thompson@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030199988,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/r/e/c/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553473232720.png",
+              "lastModified": 1553473232720,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553473232720
+            }
+          ]
+        },
+        {
+          "name": "Anthony Macdonald",
+          "title": "Street Talk Editor",
+          "email": "a.macdonald@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030199991,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/r/e/f/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553473443102.png",
+              "lastModified": 1553473443102,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553473443102
+            }
+          ]
+        },
+        {
+          "name": "Tim Boyd",
+          "title": "Reporter",
+          "email": "tim.boyd@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": []
+        }
+      ],
+      "url": "http://www.afr.com/street-talk/no-parent-troubles-for-coca-cola-kids-10b-deal-20201024-p568b5",
+      "lastModified": 1603622100000,
+      "onTime": 1603622100000,
+      "sponsored": false,
+      "headline": "No parent troubles for Coca-Cola kids' $10b deal",
+      "indexHeadline": "No parent troubles for Coca-Cola kids' $10b deal",
+      "tabletHeadline": "",
+      "theAbstract": "If there's one thing you need before approaching Coca-Cola Amatil, it's the US parent company's blessing. ",
+      "byLine": "Sarah Thompson, Anthony Macdonald and Tim Boyd",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 98689708,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/m/r/9/g/s/image.related.wideLandscape.1500x844.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1429742590564,
+          "sponsored": false,
+          "description": "The Coca-Cola Company owns 30.4 per cent of the target and 19.5 per cent of the suitor. ",
+          "photographer": "Bloomberg",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1429742590564
+        },
+        {
+          "id": 98689708,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/m/r/9/g/s/image.related.thumbnail.375x250.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1429742590564,
+          "sponsored": false,
+          "description": "The Coca-Cola Company owns 30.4 per cent of the target and 19.5 per cent of the suitor. ",
+          "photographer": "Bloomberg",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1429742590564
+        },
+        {
+          "id": 98689708,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/m/r/9/g/s/image.related.afrArticleLead.1536x1010.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1429742590564,
+          "sponsored": false,
+          "description": "The Coca-Cola Company owns 30.4 per cent of the target and 19.5 per cent of the suitor. ",
+          "photographer": "Bloomberg",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1429742590564
+        },
+        {
+          "id": 98689708,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/m/r/9/g/s/image.related.articleLeadwide.1500x844.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1429742590564,
+          "sponsored": false,
+          "description": "The Coca-Cola Company owns 30.4 per cent of the target and 19.5 per cent of the suitor. ",
+          "photographer": "Bloomberg",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1429742590564
+        },
+        {
+          "id": 98689708,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/m/r/9/g/s/image.related.afrIndexLead.1536x1010.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1429742590564,
+          "sponsored": false,
+          "description": "The Coca-Cola Company owns 30.4 per cent of the target and 19.5 per cent of the suitor. ",
+          "photographer": "Bloomberg",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1429742590564
+        },
+        {
+          "id": 98689708,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/m/r/9/g/s/image.related.landscape.1174x783.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1429742590564,
+          "sponsored": false,
+          "description": "The Coca-Cola Company owns 30.4 per cent of the target and 19.5 per cent of the suitor. ",
+          "photographer": "Bloomberg",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1429742590564
+        },
+        {
+          "id": 1030601195,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/c/y/z/image.related.articleLeadwide.1500x844.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1580091526211,
+          "sponsored": false,
+          "description": "Coca-Cola Amatil CEO Alison Watkins (left) and chairman Ilana Atlas have had an intense round of takeover talks with their likely acquirer. ",
+          "photographer": "James Brickwood",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1580091526211
+        },
+        {
+          "id": 1030601195,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/c/y/z/image.related.afrArticleInline.620x0.p568b5.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1580091526211,
+          "sponsored": false,
+          "description": "Coca-Cola Amatil CEO Alison Watkins (left) and chairman Ilana Atlas have had an intense round of takeover talks with their likely acquirer. ",
+          "photographer": "James Brickwood",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1580091526211
+        }
+      ],
+      "companies": [
+        {
+          "id": 997146246,
+          "companyCode": "CCL",
+          "companyName": "COCA-COLA AMATIL LIMITED",
+          "abbreviatedName": "Coca-Cola Amatil",
+          "exchange": "ASX",
+          "companyNumber": "4139397"
+        }
+      ],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "No parent troubles for Coca-Cola kids' $10b deal",
+        "overrideAbstract": "If there's one thing you need before approaching Coca-Cola Amatil, it's the US parent company's blessing. "
+      },
+      "timeStamp": 1603622100000
+    },
+    {
+      "id": 1520343025,
+      "categories": [
+        {
+          "name": "Economy",
+          "sectionPath": "/news/economy",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "John Kehoe",
+          "title": "Senior Writer",
+          "email": "jkehoe@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192041,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/l/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046200666.png",
+              "lastModified": 1553046200666,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553046200666
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/news/economy/imf-urges-tax-reform-to-boost-covid-19-recovery-20201024-p5686p",
+      "lastModified": 1603630800000,
+      "onTime": 1603630800000,
+      "sponsored": false,
+      "headline": "IMF urges tax reform to boost COVID-19 recovery",
+      "indexHeadline": "IMF urges tax reform to boost COVID-19 recovery",
+      "tabletHeadline": "",
+      "theAbstract": "The International Monetary Fund has urged Australia's COVID-19 economic recovery plan to embrace 'long-standing' recommendations to reduce business taxes and increase the GST to boost investment and create jobs.",
+      "byLine": "John Kehoe",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030895100,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/r/0/image.related.afrArticleLead.1536x1010.p5686p.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603600315116,
+          "sponsored": false,
+          "description": "Harald Finger, Washington-based IMF Mission chief to Australia. ",
+          "photographer": " ",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1603600315116
+        },
+        {
+          "id": 1030895100,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/r/0/image.related.articleLeadwide.1500x844.p5686p.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603600315116,
+          "sponsored": false,
+          "description": "Harald Finger, Washington-based IMF Mission chief to Australia. ",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603600315116
+        },
+        {
+          "id": 1030605046,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/f/x/y/image.related.wideLandscape.1500x844.p5686p.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1580356660567,
+          "sponsored": false,
+          "description": "The International Monetary has downgraded the global economic outlook, but upgraded Australia.",
+          "photographer": " ",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1580356660567
+        },
+        {
+          "id": 1030605046,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/f/x/y/image.related.thumbnail.375x250.p5686p.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1580356660567,
+          "sponsored": false,
+          "description": "The International Monetary has downgraded the global economic outlook, but upgraded Australia.",
+          "photographer": " ",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1580356660567
+        },
+        {
+          "id": 1030605046,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/f/x/y/image.related.afrIndexLead.1536x1010.p5686p.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1580356660567,
+          "sponsored": false,
+          "description": "The International Monetary has downgraded the global economic outlook, but upgraded Australia.",
+          "photographer": " ",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1580356660567
+        },
+        {
+          "id": 1030605046,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/f/x/y/image.related.landscape.1174x783.p5686p.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1580356660567,
+          "sponsored": false,
+          "description": "The International Monetary has downgraded the global economic outlook, but upgraded Australia.",
+          "photographer": " ",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1580356660567
+        }
+      ],
+      "signPost": "EXCLUSIVE",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "IMF urges tax reform to boost COVID-19 recovery",
+        "overrideAbstract": "The International Monetary Fund has urged Australia's COVID-19 economic recovery plan to embrace 'long-standing' recommendations to reduce business taxes and increase the GST to boost investment and create jobs."
+      },
+      "timeStamp": 1603630800000
+    },
+    {
+      "id": 1520343258,
+      "categories": [
+        {
+          "name": "Technology",
+          "sectionPath": "/technology",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/technology/google-lawsuit-just-the-opening-salvo-in-battle-to-restrain-big-tech-20201025-p568d6",
+      "lastModified": 1603597841012,
+      "sponsored": false,
+      "headline": "Google lawsuit just the opening salvo in battle to restrain Big Tech",
+      "indexHeadline": "Google lawsuit just the opening salvo in battle to restrain Big Tech",
+      "tabletHeadline": "",
+      "theAbstract": "With broad political support, antitrust action could lay the groundwork for many more cases against the world's biggest disrupters.",
+      "byLine": "Richard Waters, Kiran Stacey and Kadhim Shubber",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520341878,
+          "categories": [
+            {
+              "name": "Technology",
+              "sectionPath": "/technology",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/technology/google-up-against-laws-that-thwarted-microsoft-20201021-p567au",
+          "lastModified": 1603264111886,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Google up against laws that thwarted Microsoft",
+          "timeStamp": 1603262363000
+        },
+        {
+          "id": 1008304633,
+          "categories": [
+            {
+              "name": "Technology",
+              "sectionPath": "/technology",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/technology/googles-tactics-for-android-are-microsoft-light-20160420-gobgu1",
+          "lastModified": 1461197719727,
+          "onTime": 1461197719351,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Google's tactics for Android are Microsoft light",
+          "timeStamp": 1461197719351
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030894984,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/s/image.related.wideLandscape.1500x844.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592493229,
+          "sponsored": false,
+          "description": "The Google lawsuit is not quite the ambitious attempt to stretch the boundaries of antitrust law that some critics of the digital giants had hoped for.",
+          "photographer": "Bloomberg",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603592493229
+        },
+        {
+          "id": 1030894984,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/s/image.related.thumbnail.375x250.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592493229,
+          "sponsored": false,
+          "description": "The Google lawsuit is not quite the ambitious attempt to stretch the boundaries of antitrust law that some critics of the digital giants had hoped for.",
+          "photographer": "Bloomberg",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1603592493229
+        },
+        {
+          "id": 1030894984,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/s/image.related.afrArticleLead.1536x1010.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592493229,
+          "sponsored": false,
+          "description": "The Google lawsuit is not quite the ambitious attempt to stretch the boundaries of antitrust law that some critics of the digital giants had hoped for.",
+          "photographer": "Bloomberg",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1603592493229
+        },
+        {
+          "id": 1030894984,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/s/image.related.articleLeadwide.1500x844.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592493229,
+          "sponsored": false,
+          "description": "The Google lawsuit is not quite the ambitious attempt to stretch the boundaries of antitrust law that some critics of the digital giants had hoped for.",
+          "photographer": "Bloomberg",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603592493229
+        },
+        {
+          "id": 1030894984,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/s/image.related.afrIndexLead.1536x1010.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592493229,
+          "sponsored": false,
+          "description": "The Google lawsuit is not quite the ambitious attempt to stretch the boundaries of antitrust law that some critics of the digital giants had hoped for.",
+          "photographer": "Bloomberg",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603592493229
+        },
+        {
+          "id": 1030894984,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/s/image.related.landscape.1174x783.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592493229,
+          "sponsored": false,
+          "description": "The Google lawsuit is not quite the ambitious attempt to stretch the boundaries of antitrust law that some critics of the digital giants had hoped for.",
+          "photographer": "Bloomberg",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603592493229
+        },
+        {
+          "id": 1030185365,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/g/4/5/image.related.articleLeadwide.1500x844.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1552659289039,
+          "sponsored": false,
+          "description": "Roger McNamee: “The laissez-faire, low-touch policy that has existed for the last 40 years is giving way.\" ",
+          "photographer": "Bloomberg",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1552659289039
+        },
+        {
+          "id": 1030185365,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/g/4/5/image.related.afrArticleInline.620x0.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1552659289039,
+          "sponsored": false,
+          "description": "Roger McNamee: “The laissez-faire, low-touch policy that has existed for the last 40 years is giving way.\" ",
+          "photographer": "Bloomberg",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1552659289039
+        },
+        {
+          "id": 1030894980,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/o/image.related.articleLeadwide.1500x844.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592319271,
+          "sponsored": false,
+          "description": "Joe Biden has said relatively little about what he thinks about corporate power in the technology industry, and some on the left worry that he will continue Barack Obama’s friendly stance towards Silicon Valley.",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603592319271
+        },
+        {
+          "id": 1030894980,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/n/n/o/image.related.afrArticleInline.620x0.p568d6.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603592319271,
+          "sponsored": false,
+          "description": "Joe Biden has said relatively little about what he thinks about corporate power in the technology industry, and some on the left worry that he will continue Barack Obama’s friendly stance towards Silicon Valley.",
+          "photographer": "AP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1603592319271
+        }
+      ],
+      "signPost": "ANALYSIS",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "Financial Times"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Google lawsuit just the opening salvo in battle to restrain Big Tech",
+        "overrideAbstract": "With broad political support, antitrust action could lay the groundwork for many more cases against the world's biggest disrupters."
+      },
+      "timeStamp": 1603593386000
+    },
+    {
+      "id": 1520341362,
+      "categories": [
+        {
+          "name": "Business Education",
+          "sectionPath": "/leadership/management/business-education",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Robert Bolton",
+          "title": "Education Editor",
+          "email": "rbolton@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030202052,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/s/z/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562210916.png",
+              "lastModified": 1553562210916,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553562210916
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/leadership/management/business-education/vet-credentials-under-threat-as-industry-pushes-private-degrees-20201020-p566wi",
+      "lastModified": 1603630860000,
+      "onTime": 1603630860000,
+      "sponsored": false,
+      "headline": "VET credentials under threat as industry pushes private degrees",
+      "indexHeadline": "VET credentials under threat as industry pushes private degrees",
+      "tabletHeadline": "",
+      "theAbstract": "Companies such as Facebook, IBM and Google are offering high-speed qualifications that cannot be controlled by Australian regulators.",
+      "byLine": "Robert Bolton",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520339866,
+          "categories": [
+            {
+              "name": "Business Education",
+              "sectionPath": "/leadership/management/business-education",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Robert Bolton",
+              "title": "Education Editor",
+              "email": "rbolton@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202052,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/s/z/o/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553562210916.png",
+                  "lastModified": 1553562210916,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553562210916
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/leadership/management/business-education/uni-overhauls-business-degree-to-make-it-more-work-oriented-20201016-p565qy",
+          "lastModified": 1603026060000,
+          "onTime": 1603026060000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Uni overhauls business degree to make it more work-oriented",
+          "timeStamp": 1603026060000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030472069,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/l/c/5/image.related.wideLandscape.1500x844.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1570143636579,
+          "sponsored": false,
+          "description": "Australian Skills Quality Authority commissioner Saxon Rice says there is already flexibility in the system.",
+          "photographer": " ",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1570143636579
+        },
+        {
+          "id": 1030472069,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/l/c/5/image.related.thumbnail.375x250.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1570143636579,
+          "sponsored": false,
+          "description": "Australian Skills Quality Authority commissioner Saxon Rice says there is already flexibility in the system.",
+          "photographer": " ",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1570143636579
+        },
+        {
+          "id": 1030472069,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/l/c/5/image.related.afrArticleLead.1536x1010.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1570143636579,
+          "sponsored": false,
+          "description": "Australian Skills Quality Authority commissioner Saxon Rice says there is already flexibility in the system.",
+          "photographer": " ",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1570143636579
+        },
+        {
+          "id": 1030472069,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/l/c/5/image.related.articleLeadwide.1500x844.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1570143636579,
+          "sponsored": false,
+          "description": "Australian Skills Quality Authority commissioner Saxon Rice says there is already flexibility in the system.",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1570143636579
+        },
+        {
+          "id": 1030472069,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/l/c/5/image.related.afrIndexLead.1536x1010.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1570143636579,
+          "sponsored": false,
+          "description": "Australian Skills Quality Authority commissioner Saxon Rice says there is already flexibility in the system.",
+          "photographer": " ",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1570143636579
+        },
+        {
+          "id": 1030472069,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/l/c/5/image.related.landscape.1174x783.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1570143636579,
+          "sponsored": false,
+          "description": "Australian Skills Quality Authority commissioner Saxon Rice says there is already flexibility in the system.",
+          "photographer": " ",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1570143636579
+        },
+        {
+          "id": 1030893007,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/m/4/v/image.related.articleLeadwide.1500x844.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603414250550,
+          "sponsored": false,
+          "description": "Beverley Oliver of EduBrief: \"For years we have operated a supply side education sector.\" ",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603414250550
+        },
+        {
+          "id": 1030893007,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/m/4/v/image.related.afrArticleInline.620x0.p566wi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603414250550,
+          "sponsored": false,
+          "description": "Beverley Oliver of EduBrief: \"For years we have operated a supply side education sector.\" ",
+          "photographer": " ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1603414250550
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "VET credentials under threat as industry pushes private degrees",
+        "overrideAbstract": "Companies such as Facebook, IBM and Google are offering high-speed qualifications that cannot be controlled by Australian regulators."
+      },
+      "timeStamp": 1603630860000
+    },
+    {
+      "id": 1520342730,
+      "categories": [
+        {
+          "name": "Leadership",
+          "sectionPath": "/leadership",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Patrick Durkin",
+          "title": "BOSS Deputy Editor",
+          "email": "pdurkin@afr.com.au",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192446,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/k/u/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553052379451.png",
+              "lastModified": 1553052379451,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553052379451
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/leadership/did-someone-have-it-in-for-christine-holgate-20201023-p567yi",
+      "lastModified": 1603492564488,
+      "sponsored": false,
+      "headline": "Did someone have it in for Christine Holgate?",
+      "indexHeadline": "Did someone have it in for Christine Holgate?",
+      "tabletHeadline": "",
+      "theAbstract": "It is always interesting to look back at deleted Tweets after a scandal like Christine Holgate's $19,950 Cartier watch problems.",
+      "byLine": "Patrick Durkin",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.wideLandscape.1500x844.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.thumbnail.375x250.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.afrArticleLead.1536x1010.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.articleLeadwide.1500x844.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.afrIndexLead.1536x1010.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030891890,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/l/9/u/image.related.landscape.1174x783.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603332077124,
+          "sponsored": false,
+          "description": "Christine Holgate has stood aside as chief executive of Australia Post while there is an investigation into the purchase of luxury watches. ",
+          "photographer": "Alex Ellinghausen",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603332077124
+        },
+        {
+          "id": 1030893898,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/m/t/m/image.related.articleLeadwide.1500x844.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603431839717,
+          "sponsored": false,
+          "description": "Philip Dalidakis' Applewatch tweet.",
+          "photographer": " ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1603431839717
+        },
+        {
+          "id": 1030893898,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/m/t/m/image.related.afrArticleInline.620x0.p567yi.13zzqx.png/1603660070642.jpg",
+          "lastModified": 1603431839717,
+          "sponsored": false,
+          "description": "Philip Dalidakis' Applewatch tweet.",
+          "photographer": " ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1603431839717
+        }
+      ],
+      "companies": [],
+      "legalStatus": "Approved",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Did someone have it in for Christine Holgate?",
+        "overrideAbstract": "It is always interesting to look back at deleted Tweets after a scandal like Christine Holgate's $19,950 Cartier watch problems."
+      },
+      "timeStamp": 1603440308000
+    }
+  ],
+  "assetType": "ASSET_LIST",
+  "timeStamp": 1603660069026
+}
