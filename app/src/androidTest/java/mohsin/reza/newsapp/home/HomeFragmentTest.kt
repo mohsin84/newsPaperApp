@@ -5,6 +5,7 @@ import android.view.View
 import androidx.test.espresso.Espresso
 import androidx.test.espresso.ViewAssertion
 import androidx.test.espresso.ViewInteraction
+import androidx.test.espresso.action.ViewActions
 import androidx.test.espresso.assertion.ViewAssertions
 import androidx.test.espresso.contrib.RecyclerViewActions
 import androidx.test.espresso.matcher.ViewMatchers.isDisplayed
@@ -18,6 +19,7 @@ import mohsin.reza.newsapp.MainActivity
 import mohsin.reza.newsapp.R.id
 import mohsin.reza.newsapp.TestApp
 import mohsin.reza.newsapp.TestAppComponent
+import mohsin.reza.newsapp.network.NetworkSettings
 import mohsin.reza.newsapp.ui.ArticleViewHolder
 import org.hamcrest.Matcher
 import org.hamcrest.Matchers
@@ -26,12 +28,16 @@ import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
 import timber.log.Timber
+import javax.inject.Inject
 
 @RunWith(AndroidJUnit4::class)
 class HomeFragmentTest {
 
     @get:Rule
     val activityRule = ActivityTestRule(MainActivity::class.java, true, false)
+
+    @Inject
+    lateinit var networkSettings: NetworkSettings
 
     @Before
     fun setUp() {
@@ -66,6 +72,27 @@ class HomeFragmentTest {
         waitFor(withId(id.article_image_view) and withContentDescription("- Robert Guy"))
         waitFor(withId(id.abstract_text_view) and withText(Matchers.containsString("CVC Emerging")))
         waitFor(withId(id.by_line_text_view) and withText(Matchers.containsString("- Robert Guy")))
+    }
+
+    @Test
+    fun verifyErrorIsShownWhenNoNetwork() {
+        // simulate network is disconnected
+        networkSettings.isConnectedToInternet = false
+        launchActivity()
+        // verify error error and retry button is shown
+        waitFor(withId(id.content_error_message), ViewAssertions.matches(isDisplayed()))
+        waitFor(withId(id.retry_button), ViewAssertions.matches(isDisplayed()))
+
+        // simulate network is connected
+        networkSettings.isConnectedToInternet = true
+        Espresso.onView(withId(id.retry_button)).perform(ViewActions.click())
+        waitFor(
+            withId(id.content_error_message),
+            ViewAssertions.matches(Matchers.not(isDisplayed()))
+        )
+        // verify first article
+        waitFor(withId(id.headline_text_view) and withText(Matchers.containsString("The high price")))
+        waitFor(withId(id.article_image_view) and withContentDescription("- Jennifer Hewett"))
     }
 
     private fun waitFor(

@@ -34,7 +34,7 @@ class HomePageVM @Inject constructor(
                     asset.timeStamp
                 }
             }
-            .subscribeOn(schedulers.main())
+            .observeOn(schedulers.main())
             .doOnSubscribe {
                 movieListMutableLiveData.postValue(Resource.loading())
             }

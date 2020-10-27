@@ -9,7 +9,10 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import io.reactivex.exceptions.CompositeException
-import kotlinx.android.synthetic.main.fragment_home.*
+import kotlinx.android.synthetic.main.fragment_home.content_error_message
+import kotlinx.android.synthetic.main.fragment_home.home_page_recycler_view
+import kotlinx.android.synthetic.main.fragment_home.home_progress_bar
+import kotlinx.android.synthetic.main.fragment_home.retry_button
 import mohsin.reza.newsapp.App
 import mohsin.reza.newsapp.R
 import mohsin.reza.newsapp.di.ResourceState
@@ -57,7 +60,9 @@ class HomePageFragment : Fragment() {
         homePageRecyclerView.adapter = HomePageRecyclerViewAdapter { article ->
             Browser.openUrl(requireContext(), article.url ?: "")
         }
-        viewModel.requestArticleList()
+        if (savedInstanceState == null) {
+            viewModel.requestArticleList()
+        }
         viewModel.movieListLiveData.observe(viewLifecycleOwner, Observer { resource ->
             val isError = resource.status == ResourceState.ERROR
             home_progress_bar.isVisible = resource.status == ResourceState.LOADING
